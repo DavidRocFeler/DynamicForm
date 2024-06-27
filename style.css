@@ -1,0 +1,243 @@
+footer {
+    background-color: #cdaafa;
+   
+}
+.formulario .formulario-contenedor .logos {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 92%;
+    margin: auto;
+}
+.formulario .formulario-contenedor .logos .logo-start4 {
+    width: 2em;
+    height: auto;
+    margin-top: 2em;
+    
+}
+.formulario .formulario-contenedor .logos .logo-typographic {
+    width: 5em;
+    height: auto;
+    margin-left: auto;
+    margin-top: 2em;
+}
+.formulario {
+
+    height: 28em;
+}
+.formulario .formulario-contenedor {
+    width: 38em;
+    height: 28em;
+    margin: auto; 
+
+    
+}
+
+.formulario .formulario-contenedor .pieza1 {
+    margin-top: 2em;
+    width: 100%;
+    height: 12.1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.formulario .formulario-contenedor .pieza1-1 {
+    width: 17em;
+    background-color: white;
+    height: 3em;
+    border-radius: 10px;
+    margin-bottom: 1em;
+}
+.formulario .formulario-contenedor .pieza1-2 {
+    width: 17em;
+    background-color:white;
+    height: 3em;
+    border-radius: 10px;
+    margin-bottom: 1em;
+}
+.formulario .formulario-contenedor .pieza1-3 {
+    width: 17em;
+    background-color:white;
+    height: 3em;
+    border-radius: 10px;
+    
+}
+.formulario .formulario-contenedor .pieza1-4 {
+    width: 17em;
+    background-color:white;
+    height: 3em;
+    border-radius: 10px;
+    margin-bottom: 1em;
+}
+.formulario .formulario-contenedor .pieza1-5 {
+    width: 17em;
+    background-color:white;
+    height: 3em;
+    border-radius: 10px;
+    margin-bottom: 1em;
+}
+.formulario .formulario-contenedor .pieza1-6 {
+    width: 17em;
+    background-color:white;
+    height: 3em;
+    border-radius: 10px;
+}
+.formulario .formulario-contenedor .pieza2 {
+    
+}
+.formulario .formulario-contenedor .pieza2-1 {
+    background-color: white;
+    width: 95%;
+    margin-left: 1em;
+    height: 6em;
+    border-radius: 10px;
+    margin-bottom: 1em;
+}
+.formulario .formulario-contenedor .pieza2-2 {
+    background-color: white;
+    height: 3.5em;
+    width: fit-content;
+    margin-left: 1em;
+    border-radius: 10px ;
+}
+.input-field {
+    align-items: center;
+    width: 95%;
+    height: 95%;
+    border: none;
+    border-radius: 10px;
+    padding: 1em;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.input-field:focus {
+    outline: none;
+}
+.input-field-youtext {
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    border: none;
+    border-radius: 10px;
+    padding-left: 1em;
+    padding-right: 1em;
+    box-sizing: border-box;
+    padding-top: 1em;
+    outline: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.input-field-submit {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    background-color: white;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1.1em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-right: 1em;
+    padding-left: 1em;
+}
+
+.hr2 {
+    margin-top: 5em;
+}
+.footer-last {
+    background-color: white;
+    height: 8em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+footer address {
+    display: flex;
+    flex-direction: column;
+    margin-top: 1.5em;
+    height: 10em;
+}
+footer .email-p {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: #818181;
+    font-size: 1.1em;
+    text-align: start;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 18em;
+}
+footer address .mobiele-p {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: #818181;
+    font-size: 1.1em;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: start;
+    margin-top: 0;
+    width: 13em;
+}
+footer address .email {
+    width: 1em;
+    height: 1em;
+}
+footer address .mobiele {
+    margin-top: 0.1em;
+    width: 1em;
+    height: 1em;
+}
+footer .browse1 {
+    display: flex;
+    flex-direction: column;
+    line-height: 2.5em;
+
+    margin-top: 2em;
+    height: 8em;
+}
+footer .browse1 a {
+    color: #818181;
+    font-size: 1.1em;
+    text-align: start;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+footer .browse2 {
+    display: flex;
+    flex-direction: column;
+    margin-top: 2em;
+    line-height: 2.5em;
+    height: 8em;
+}
+footer .browse2 a {
+    color: #818181;
+    font-size: 1.1em;
+    text-align: start;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+footer .browse3 {
+    display: flex;
+    flex-direction: column;
+  
+    margin-top: 2.5em;
+}
+footer .browse3 strong {
+    color: black;
+    font-weight: bold;
+    font-size: 1.2em;
+    padding-left: 0.5em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+footer .browse3 figure {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  
+    width: 100%;
+    margin-left: 0;
+} 
+footer .browse3 figure img {
+    width: 1.5em;
+    height: auto;
+}
